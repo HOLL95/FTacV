@@ -1,0 +1,10 @@
+10kpoints -10k k0, varying points
+1kk/1kkkts - 10k k0, varying freqs
+cdl  - fourier fitting, different freqs
+hikf - 5000 k0, fourrier
+tsn - time series noise
+fo - low k fourier
+cm - ramped method, low k
+ts - also time series noise?
+lowkhif - low k, fourier, 32pi frequency
+
